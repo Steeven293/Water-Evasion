@@ -1,7 +1,3 @@
-# Water-Evasion-v2.5-M4-May2022
-Revamped Spectate Mode
-New AFK UI
-New Dialog UI
-New BoolValue on Map Settings: Allow Dialog
-New map: Fantasyverse
-Released CommunityMap2022
+# Water-Evasion
+A fangame made by Tiny Mango Studios since November 6, 2019 on Roblox
+Based from Open Flood Test (uncopylocked game by ForbiddenJ)
